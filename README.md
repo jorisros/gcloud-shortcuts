@@ -1,4 +1,4 @@
-# gcloud shortcuts
+# Gcloud shortcuts
 To setup and remember the commands
 
 | Command | Description |
