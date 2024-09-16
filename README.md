@@ -8,6 +8,10 @@ To setup and remember the commands
 | project-change <projectID> | Change the current project |
 
 ## Setup
+Run on OSX (if brew is installed) the following command
+```
+brew install --cask google-cloud-sdk
+```
 Add the aliasses of below to the ``.zshrc``
 
 ```
